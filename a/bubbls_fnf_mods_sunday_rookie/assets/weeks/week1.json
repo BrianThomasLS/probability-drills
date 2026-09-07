@@ -1,0 +1,44 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "alley",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Melancholy",
+			"p1",
+			[
+				161,
+				161,
+				161
+			]
+		],
+		[
+			"Twisted",
+			"p2",
+			[
+				160,
+				160,
+				160
+			]
+		],
+		[
+			"Lunacy",
+			"p4",
+			[
+				38,
+				38,
+				38
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}

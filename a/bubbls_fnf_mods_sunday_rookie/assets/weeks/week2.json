@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "alley",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Smile",
+			"randy",
+			[
+				229,
+				229,
+				229
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week 2"
+}
