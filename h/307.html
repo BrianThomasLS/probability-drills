@@ -1,0 +1,95 @@
+
+<!doctype html>
+<html>
+
+<head>
+    
+    <script>
+        const originalFetch = window.fetch;
+        window.fetch = async function (...args) {
+            if (typeof args[0] === 'string') {
+                args[0] = fixedUrl(args[0]);
+            } else if (args[0] instanceof Request) {
+                args[0] = new Request(fixedUrl(args[0].url), args[0]);
+            }
+            return originalFetch.apply(this, args);
+        };
+    
+        const originalOpen = XMLHttpRequest.prototype.open;
+        XMLHttpRequest.prototype.open = function (method, url, ...rest) {
+            return originalOpen.call(this, method, fixedUrl(url), ...rest);
+        };
+    
+        function fixedUrl(url) {
+            const parts = url.split(/[/\\]/);
+            let last = parts.pop();
+            let fix = last.replaceAll("|", '_').replaceAll("%7C", "_");
+            return url.replace(last, fix);
+        }
+    </script>
+    
+    <meta name='viewport' content='width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no, viewport-fit=cover' />
+    <meta charset='utf-8'>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="manifest" href="manifest.json">
+    <title>Rainbow Obby v0.3x</title>
+    <script src="https://cdn.jsdelivr.net/gh/freebuisness/assets@main/poki-sdk.js"></script>
+    <script src="files/assets/152069093/1/GameAnalytics.js"></script>
+    <script src="playcanvas-stable.min.js"></script>
+    <script src="files/assets/171810889/1/colyseus.js"></script>
+    <script src="__settings__.js"></script>
+<style>
+#sidebarad1,
+#sidebarad2 {
+  position: fixed;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 160px;
+  height: 600px;
+  padding: 0;
+  margin: 0;
+  z-index: 999999;
+}
+#sidebarad1 {
+  left: 0;
+}
+#sidebarad2 {
+  right: 0;
+}
+.sidebar-close {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 22px;
+  height: 22px;
+  line-height: 22px;
+  text-align: center;
+  background: rgba(0,0,0,0.7);
+  color: #fff;
+  font-size: 14px;
+  cursor: pointer;
+  user-select: none;
+  z-index: 10;
+}
+.sidebar-frame {
+  width: 160px;
+  height: 600px;
+  border: none;
+  display: block;
+}
+</style>
+</head>
+
+<body>
+    <script src="__modules__.js"></script>
+    <script src="__start__.js"></script>
+    <script src="__loading__.js"></script>
+<div id="sidebarad1">
+  <div class="sidebar-close" onclick="this.parentElement.style.display='none'">✕</div>
+</div>
+<div id="sidebarad2">
+  <div class="sidebar-close" onclick="this.parentElement.style.display='none'">✕</div>
+</div>
+</body>
+
+</html>
