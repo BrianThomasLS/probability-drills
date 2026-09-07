@@ -1,0 +1,161 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Char 1",
+      "isBought": 1
+    },
+    {
+      "id": 2,
+      "name": "Char 2",
+      "isBought": 0
+    },
+    {
+      "id": 3,
+      "name": "Char 3",
+      "isBought": 0
+    },
+    {
+      "id": 4,
+      "name": "Char 4",
+      "isBought": 0
+    },
+    {
+      "id": 5,
+      "name": "Char 5",
+      "isBought": 0
+    },
+    {
+      "id": 6,
+      "name": "Char 6",
+      "isBought": 0
+    },
+    {
+      "id": 7,
+      "name": "Char 7",
+      "isBought": 0
+    },
+    {
+      "id": 8,
+      "name": "Char 8",
+      "isBought": 0
+    },
+    {
+      "id": 9,
+      "name": "Char 9",
+      "isBought": 0
+    },
+    {
+      "id": 10,
+      "name": "Char 10",
+      "isBought": 0
+    },
+    {
+      "id": 11,
+      "name": "Char 11",
+      "isBought": 0
+    },
+    {
+      "id": 12,
+      "name": "Char 12",
+      "isBought": 0
+    },
+    {
+      "id": 13,
+      "name": "Char 13",
+      "isBought": 0
+    },
+    {
+      "id": 14,
+      "name": "Char 14",
+      "isBought": 0
+    },
+    {
+      "id": 15,
+      "name": "Char 15",
+      "isBought": 0
+    },
+    {
+      "id": 16,
+      "name": "Char 16",
+      "isBought": 0
+    }
+  ],
+  "ropes": [
+    {
+      "id": 1,
+      "name": "Rope 1",
+      "isBought": 1
+    },
+    {
+      "id": 2,
+      "name": "Rope 2",
+      "isBought": 0
+    },
+    {
+      "id": 3,
+      "name": "Rope 3",
+      "isBought": 0
+    },
+    {
+      "id": 4,
+      "name": "Rope 4",
+      "isBought": 1
+    },
+    {
+      "id": 5,
+      "name": "Rope 5",
+      "isBought": 0
+    },
+    {
+      "id": 6,
+      "name": "Rope 6",
+      "isBought": 0
+    },
+    {
+      "id": 7,
+      "name": "Rope 7",
+      "isBought": 0
+    },
+    {
+      "id": 8,
+      "name": "Rope 8",
+      "isBought": 0
+    },
+    {
+      "id": 9,
+      "name": "Rope 9",
+      "isBought": 0
+    },
+    {
+      "id": 10,
+      "name": "Rope 10",
+      "isBought": 0
+    },
+    {
+      "id": 11,
+      "name": "Rope 11",
+      "isBought": 0
+    },
+    {
+      "id": 12,
+      "name": "Rope 12",
+      "isBought": 0
+    },
+    {
+      "id": 13,
+      "name": "Rope 13",
+      "isBought": 0
+    },
+    {
+      "id": 14,
+      "name": "Rope 14",
+      "isBought": 0
+    },
+    {
+      "id": 15,
+      "name": "Rope 15",
+      "isBought": 0
+    }
+  ]
+}
