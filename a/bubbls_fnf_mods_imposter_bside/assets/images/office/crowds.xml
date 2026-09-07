@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="crowds.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Crewmates0000" x="0" y="0" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0001" x="0" y="0" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0002" x="2525" y="0" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0003" x="2525" y="0" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0004" x="5050" y="0" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0005" x="5050" y="0" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0006" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0007" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0008" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0009" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0010" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0011" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0012" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0013" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0014" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0015" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0016" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0017" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0018" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0019" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0020" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0021" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0022" x="0" y="1022" width="2525" height="1022"/>
+	<SubTexture name="Crewmates0023" x="2525" y="1022" width="2525" height="1022"/>
+</TextureAtlas>

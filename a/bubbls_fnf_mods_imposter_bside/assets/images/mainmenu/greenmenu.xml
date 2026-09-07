@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="greenmenu.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="green idle0000" x="0" y="0" width="1600" height="1573"/>
+	<SubTexture name="green idle0001" x="1600" y="0" width="1600" height="1573"/>
+	<SubTexture name="green idle0002" x="3200" y="0" width="1600" height="1573"/>
+	<SubTexture name="green idle0003" x="4800" y="0" width="1600" height="1573"/>
+	<SubTexture name="green select0000" x="6400" y="0" width="1600" height="1573"/>
+	<SubTexture name="green select0001" x="0" y="1573" width="1600" height="1573"/>
+	<SubTexture name="green select0002" x="1600" y="1573" width="1600" height="1573"/>
+	<SubTexture name="green select0003" x="3200" y="1573" width="1600" height="1573"/>
+	<SubTexture name="green select0004" x="4800" y="1573" width="1600" height="1573"/>
+	<SubTexture name="green select0005" x="6400" y="1573" width="1600" height="1573"/>
+	<SubTexture name="green select0006" x="0" y="3146" width="1600" height="1573"/>
+	<SubTexture name="green select0007" x="1600" y="3146" width="1600" height="1573"/>
+</TextureAtlas>

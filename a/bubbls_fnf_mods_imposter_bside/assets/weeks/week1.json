@@ -1,0 +1,50 @@
+{
+	"storyName": "Mira Misdirection",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "sky",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "Week 0",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Sussus-Moogus",
+			"cyan",
+			[
+				136,
+				214,
+				253
+			]
+		],
+		[
+			"Sabotage",
+			"cyan",
+			[
+				136,
+				214,
+				253
+			]
+		],
+		[
+			"Meltdown",
+			"cyan2",
+			[
+				136,
+				214,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1",
+	"hiddenUntilUnlocked": false
+}

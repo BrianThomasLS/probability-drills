@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="redMenu.png">
+	<!-- Created with Adobe Animate version 22.0.7.214 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="red idle0000" x="0" y="0" width="1200" height="1473"/>
+	<SubTexture name="red idle0001" x="1200" y="0" width="1200" height="1473"/>
+	<SubTexture name="red idle0002" x="2400" y="0" width="1200" height="1473"/>
+	<SubTexture name="red idle0003" x="3600" y="0" width="1200" height="1473"/>
+	<SubTexture name="red select0000" x="4800" y="0" width="1200" height="1473"/>
+	<SubTexture name="red select0001" x="6000" y="0" width="1200" height="1473"/>
+	<SubTexture name="red select0002" x="0" y="1473" width="1200" height="1473"/>
+	<SubTexture name="red select0003" x="1200" y="1473" width="1200" height="1473"/>
+	<SubTexture name="red select0004" x="2400" y="1473" width="1200" height="1473"/>
+	<SubTexture name="red select0005" x="3600" y="1473" width="1200" height="1473"/>
+	<SubTexture name="red select0006" x="4800" y="1473" width="1200" height="1473"/>
+	<SubTexture name="red select0007" x="6000" y="1473" width="1200" height="1473"/>
+</TextureAtlas>

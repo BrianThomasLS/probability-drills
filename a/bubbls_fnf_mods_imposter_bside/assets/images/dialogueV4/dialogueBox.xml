@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="dialogueBox.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boyfriend0000" x="0" y="0" width="997" height="464" frameX="0" frameY="0" frameWidth="997" frameHeight="473"/>
+	<SubTexture name="girlfriend0000" x="1002" y="0" width="997" height="464" frameX="0" frameY="0" frameWidth="997" frameHeight="473"/>
+	<SubTexture name="cyan0000" x="2004" y="0" width="997" height="464" frameX="0" frameY="0" frameWidth="997" frameHeight="473"/>
+	<SubTexture name="green0000" x="3006" y="0" width="997" height="464" frameX="0" frameY="0" frameWidth="997" frameHeight="473"/>
+	<SubTexture name="yellow0000" x="0" y="469" width="997" height="464" frameX="0" frameY="0" frameWidth="997" frameHeight="473"/>
+	<SubTexture name="white0000" x="1002" y="469" width="997" height="464" frameX="0" frameY="0" frameWidth="997" frameHeight="473"/>
+	<SubTexture name="redblue0000" x="2004" y="469" width="997" height="473"/>
+	<SubTexture name="maroon0000" x="3006" y="469" width="997" height="473"/>
+	<SubTexture name="grey0000" x="0" y="947" width="997" height="473"/>
+	<SubTexture name="pink0000" x="1002" y="947" width="997" height="473"/>
+	<SubTexture name="black0000" x="2004" y="947" width="997" height="473"/>
+	<SubTexture name="pinkwhite0000" x="3006" y="947" width="997" height="473"/>
+</TextureAtlas>

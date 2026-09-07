@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cyan-Sussus.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle animatiom0000" x="0" y="0" width="849" height="517"/>
+	<SubTexture name="Idle animatiom0001" x="0" y="0" width="849" height="517"/>
+	<SubTexture name="Idle animatiom0002" x="849" y="0" width="849" height="517"/>
+	<SubTexture name="Idle animatiom0003" x="849" y="0" width="849" height="517"/>
+	<SubTexture name="Idle animatiom0004" x="1698" y="0" width="849" height="517"/>
+	<SubTexture name="Idle animatiom0005" x="1698" y="0" width="849" height="517"/>
+	<SubTexture name="Idle animatiom0006" x="2547" y="0" width="849" height="517"/>
+	<SubTexture name="Idle animatiom0007" x="2547" y="0" width="849" height="517"/>
+	<SubTexture name="Idle animatiom0008" x="3396" y="0" width="849" height="517"/>
+	<SubTexture name="Idle animatiom0009" x="3396" y="0" width="849" height="517"/>
+	<SubTexture name="imposter down0000" x="4245" y="0" width="648" height="532"/>
+	<SubTexture name="imposter down0001" x="4245" y="0" width="648" height="532"/>
+	<SubTexture name="imposter down0002" x="4893" y="0" width="648" height="532"/>
+	<SubTexture name="imposter down0003" x="4893" y="0" width="648" height="532"/>
+	<SubTexture name="imposter down0004" x="5541" y="0" width="648" height="532"/>
+	<SubTexture name="imposter down0005" x="5541" y="0" width="648" height="532"/>
+	<SubTexture name="imposter down0006" x="6189" y="0" width="648" height="532"/>
+	<SubTexture name="imposter left0000" x="6837" y="0" width="745" height="516"/>
+	<SubTexture name="imposter left0001" x="6837" y="0" width="745" height="516"/>
+	<SubTexture name="imposter left0002" x="0" y="532" width="745" height="516"/>
+	<SubTexture name="imposter left0003" x="745" y="532" width="745" height="516"/>
+	<SubTexture name="imposter left0004" x="1490" y="532" width="745" height="516"/>
+	<SubTexture name="imposter left0005" x="2235" y="532" width="745" height="516"/>
+	<SubTexture name="imposter left0006" x="2980" y="532" width="745" height="516"/>
+	<SubTexture name="imposter right0000" x="3725" y="532" width="604" height="568"/>
+	<SubTexture name="imposter right0001" x="4329" y="532" width="604" height="568"/>
+	<SubTexture name="imposter right0002" x="4933" y="532" width="604" height="568"/>
+	<SubTexture name="imposter right0003" x="5537" y="532" width="604" height="568"/>
+	<SubTexture name="imposter right0004" x="6141" y="532" width="604" height="568"/>
+	<SubTexture name="imposter right0005" x="6141" y="532" width="604" height="568"/>
+	<SubTexture name="imposter up0000" x="6745" y="532" width="761" height="702"/>
+	<SubTexture name="imposter up0001" x="0" y="1234" width="761" height="702"/>
+	<SubTexture name="imposter up0002" x="761" y="1234" width="761" height="702"/>
+	<SubTexture name="imposter up0003" x="1522" y="1234" width="761" height="702"/>
+	<SubTexture name="imposter up0004" x="2283" y="1234" width="761" height="702"/>
+	<SubTexture name="imposter up0005" x="3044" y="1234" width="761" height="702"/>
+	<SubTexture name="imposter up0006" x="3805" y="1234" width="761" height="702"/>
+	<SubTexture name="imposter up0007" x="4566" y="1234" width="761" height="702"/>
+	<SubTexture name="imposter up0008" x="5327" y="1234" width="761" height="702"/>
+	<SubTexture name="imposter up0009" x="6088" y="1234" width="761" height="702"/>
+	<SubTexture name="imposter up0010" x="6849" y="1234" width="761" height="702"/>
+	<SubTexture name="imposter up0011" x="0" y="1936" width="761" height="702"/>
+	<SubTexture name="impostershocked0000" x="761" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0001" x="761" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0002" x="761" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0003" x="761" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0004" x="1566" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0005" x="1566" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0006" x="2371" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0007" x="2371" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0008" x="2371" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0009" x="2371" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0010" x="2371" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0011" x="2371" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0012" x="2371" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0013" x="2371" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0014" x="2371" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0015" x="3176" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0016" x="3176" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0017" x="3981" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0018" x="3981" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0019" x="4786" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0020" x="4786" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0021" x="4786" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0022" x="4786" y="1936" width="805" height="512"/>
+	<SubTexture name="impostershocked0023" x="4786" y="1936" width="805" height="512"/>
+</TextureAtlas>
