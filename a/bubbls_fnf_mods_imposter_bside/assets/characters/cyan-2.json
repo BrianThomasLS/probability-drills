@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-110,
+				17
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cryingposter right"
+		},
+		{
+			"offsets": [
+				-110,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cryingposter down"
+		},
+		{
+			"offsets": [
+				71,
+				-1
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cryingposter left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-74,
+				34
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cryposter up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-110,
+				30
+			],
+			"indices": [],
+			"fps": 20,
+			"anim": "idle",
+			"loop": false,
+			"name": "cryingposter idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cyan-2",
+	"position": [
+		-30,
+		310
+	],
+	"healthicon": "icon-cyan2",
+	"flip_x": false,
+	"healthbar_colors": [
+		136,
+		214,
+		253
+	],
+	"camera_position": [
+		170,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cyan-2.png">
+	<!-- Created with Adobe Animate version 23.0.1.70 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cryingposter down0000" x="0" y="0" width="568" height="520"/>
+	<SubTexture name="cryingposter down0001" x="568" y="0" width="568" height="520"/>
+	<SubTexture name="cryingposter down0002" x="1136" y="0" width="568" height="520"/>
+	<SubTexture name="cryingposter down0003" x="1704" y="0" width="568" height="520"/>
+	<SubTexture name="cryingposter down0004" x="2272" y="0" width="568" height="520"/>
+	<SubTexture name="cryingposter down0005" x="2840" y="0" width="568" height="520"/>
+	<SubTexture name="cryingposter down0006" x="3408" y="0" width="568" height="520"/>
+	<SubTexture name="cryingposter down0007" x="3976" y="0" width="568" height="520"/>
+	<SubTexture name="cryingposter idle0000" x="4544" y="0" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0001" x="5231" y="0" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0002" x="5918" y="0" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0003" x="6605" y="0" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0004" x="7292" y="0" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0005" x="0" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0006" x="687" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0007" x="1374" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0008" x="2061" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0009" x="2748" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0010" x="3435" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0011" x="4122" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0012" x="4809" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0013" x="4122" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0014" x="4809" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0015" x="4122" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0016" x="4809" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0017" x="4122" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0018" x="4809" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter idle0019" x="4122" y="556" width="687" height="556"/>
+	<SubTexture name="cryingposter left0000" x="5496" y="556" width="645" height="493"/>
+	<SubTexture name="cryingposter left0001" x="5496" y="556" width="645" height="493"/>
+	<SubTexture name="cryingposter left0002" x="6141" y="556" width="645" height="493"/>
+	<SubTexture name="cryingposter left0003" x="6786" y="556" width="645" height="493"/>
+	<SubTexture name="cryingposter left0004" x="7431" y="556" width="645" height="493"/>
+	<SubTexture name="cryingposter left0005" x="0" y="1112" width="645" height="493"/>
+	<SubTexture name="cryingposter left0006" x="645" y="1112" width="645" height="493"/>
+	<SubTexture name="cryingposter left0007" x="1290" y="1112" width="645" height="493"/>
+	<SubTexture name="cryingposter left0008" x="0" y="1112" width="645" height="493"/>
+	<SubTexture name="cryingposter left0009" x="1935" y="1112" width="645" height="493"/>
+	<SubTexture name="cryingposter right0000" x="2580" y="1112" width="579" height="509"/>
+	<SubTexture name="cryingposter right0001" x="3159" y="1112" width="579" height="509"/>
+	<SubTexture name="cryingposter right0002" x="3738" y="1112" width="579" height="509"/>
+	<SubTexture name="cryingposter right0003" x="4317" y="1112" width="579" height="509"/>
+	<SubTexture name="cryingposter right0004" x="4896" y="1112" width="579" height="509"/>
+	<SubTexture name="cryingposter right0005" x="5475" y="1112" width="579" height="509"/>
+	<SubTexture name="cryingposter right0006" x="6054" y="1112" width="579" height="509"/>
+	<SubTexture name="cryingposter right0007" x="6633" y="1112" width="579" height="509"/>
+	<SubTexture name="cryingposter right0008" x="7212" y="1112" width="579" height="509"/>
+	<SubTexture name="cryingposter right0009" x="0" y="1621" width="579" height="509"/>
+	<SubTexture name="cryposter up0000" x="579" y="1621" width="556" height="525"/>
+	<SubTexture name="cryposter up0001" x="1135" y="1621" width="556" height="525"/>
+	<SubTexture name="cryposter up0002" x="1691" y="1621" width="556" height="525"/>
+	<SubTexture name="cryposter up0003" x="2247" y="1621" width="556" height="525"/>
+	<SubTexture name="cryposter up0004" x="2803" y="1621" width="556" height="525"/>
+	<SubTexture name="cryposter up0005" x="3359" y="1621" width="556" height="525"/>
+	<SubTexture name="cryposter up0006" x="3915" y="1621" width="556" height="525"/>
+	<SubTexture name="cryposter up0007" x="4471" y="1621" width="556" height="525"/>
+	<SubTexture name="cryposter up0008" x="5027" y="1621" width="556" height="525"/>
+	<SubTexture name="cryposter up0009" x="5583" y="1621" width="556" height="525"/>
+	<SubTexture name="cryposter up0010" x="6139" y="1621" width="556" height="525"/>
+</TextureAtlas>
