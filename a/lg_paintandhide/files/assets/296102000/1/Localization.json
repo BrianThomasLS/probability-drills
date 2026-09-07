@@ -1,0 +1,93 @@
+{
+    "header": {
+        "version": 1
+    },
+    "data": [
+        {
+            "info": {
+                "locale": "en-US"
+            },
+            "messages": {
+                "Guest": "Guest",
+                "Space": "Space",
+                "Reward": "Reward"
+            }
+        },
+        {
+            "info": {
+                "locale": "es"
+            },
+            "messages": {
+                "Guest": "Invitado",
+                "Space": "Espacio",
+                "Not enough strength!": "¡No hay suficiente fuerza!",
+                "2x reward": "recompensa 2x",
+                "Football Guy": "chico de futbol",
+                "Football": "futbol",
+                "Required": "requerido",
+                "required": "requerido",
+                "Reward": "recompensa",
+                "Challenge": "desafio",
+                "Enter": "ingresar",
+                "Old Boxer": "viejo boxeador",
+                "Boxer": "boxeador",
+                "Wizard": "mago",
+                "Viking": "Vikingo",
+                "Shoe Shop": "Zapateria",
+                "Boost": "Aumentar",
+                "Price": "Precio",
+                "Buy": "Comprar",
+                "Purchased": "comprado",
+                "Equip": "Equipar",
+                "Equipped": "Equipado",
+                "Get": "Conseguir",
+                "Strength": "Fortaleza",
+                "Complete": "completo",
+                "Wins": "Ganar",
+                "Scores": "Montones",
+                "Collect": "Recolectar",
+                "2x Collect": "Recolectar 2x",
+                "Quest": "busqueda",
+                "Quests": "busquedas",
+                "Cosmetics": "Cosmeticos",
+                "Skins": "Piel",
+                "Glasses": "Anteojos",
+                "Rebirth": "Renacimiento",
+                "Emotes": "Emoticones",
+                "Lose": "Perder",
+                "Multiplire": "multiplicador",
+                "Current": "Actual",
+                "Settings": "Ajustes",
+                "Change": "Cambiar",
+                "Game Volume": "Volumen del juego",
+                "Language": "idioma",
+                "Username": "Nombre de usuario",
+                "Offline Progress": "Progreso sin conexion",
+                "Train And Improve, even Offline!": "Entrena y mejora, incluso sin conexion!",
+                "Join": "Unete",
+                "Join!": "Unete !",
+                "Join our discord community to be aware of new updates!": "Unete a nuestra comunidad de discordia para estar al tanto de nuevas actualizaciones!",
+                "updates!": "actualizaciones!",
+                "Wave Anim.": "Anime de olas.",
+                "Wow Emoji": "Guau Emoji",
+                "Yummy Emoji": "Delicioso Emoji",
+                "Noob Dance": "baile novato",
+                "Rage Emoji": "Emoji de rabia",
+                "Cry Emoji": "Llorar Emoji",
+                "Push Dance": "Empujar Danza",
+                "Warm Dance": "Danza calida",
+                "Pro Dance": "baile profesional",
+                "Level": "Nivel",
+                "Coming Soon": "Muy pronto",
+                "RUN!": "Correr!",
+                "WIN!": "GANAR!",
+                "LOSE!": "PERDER!",
+                "next level gym": "gimnasio de siguiente nivel",
+                "Unlock": "Descubrir",
+                "You don't have enough money to buy this right now.": "No tienes suficiente dinero para comprar esto ahora.",
+                "Click": "Hacer clic",
+                "Exit": "Salida"
+            }
+        }
+    ]
+}

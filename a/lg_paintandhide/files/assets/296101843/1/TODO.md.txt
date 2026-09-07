@@ -1,0 +1,17 @@
+## 9 Jul
+- 
+
+
+## 30 June
++ Make the map better and more interesting to hang out
+- Add map index system so we can have multiple maps around so it's not boring all the time
+
+## 29 June
++ Integrate skin change system
++ Add skin buy areas
++ Add pistol and pistol animations
++ Add crosshair
+- Add different map index system
++ Conduct a playtest
+- Send it to QA
+- Prepare a new thumbnail
